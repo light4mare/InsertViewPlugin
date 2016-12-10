@@ -1,0 +1,2 @@
+# InsertViewPlugin
+使用gradle脚本重写的ButterKnife,在gradle编译过程中根据注解插入、生成相应的字节码以达到与ButterKnife相同的作用
