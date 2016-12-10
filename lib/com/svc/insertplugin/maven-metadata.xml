@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <groupId>com.svc</groupId>
+    <artifactId>insertplugin</artifactId>
+    <versioning>
+        <release>insert-1.0</release>
+        <versions>
+            <version>insert-1.0</version>
+        </versions>
+        <lastUpdated>20161210084951</lastUpdated>
+    </versioning>
+</metadata>
